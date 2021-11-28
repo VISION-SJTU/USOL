@@ -1,0 +1,7 @@
+vis_folder/
+runs/
+raw_folder/
+checkpoints/
+__pycache__
+vis_folder_MUSIC/
+*.txt
