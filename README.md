@@ -2,7 +2,7 @@
 
 :herb: **[Unsupervised Unsupervised Sounding Object Localization with Bottom-Up and Top-Down Attention](https://vision.sjtu.edu.cn/files/wacv2022_USOL.pdf)**
 
-Jiayin Shi, Chao Ma
+Jiayin Shi and Chao Ma
 
 *IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022.*
 
